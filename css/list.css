@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background-color:#f2f2f2;}
+.banner{ margin:20px 0px 0px 22%;}
+.banner a{ position:absolute;margin:45px 0px 0px -9%;}
+
+.info{ font-size:18px; margin:20px 0px 0px 22%;}
+.info ul{  margin:-25px 0px 0px 30px; }
+.info li{ list-style:none; float:left; margin-left:25px;font-size:16px;}
+.info a{  color:#4e4e4e;text-decoration:none;}
+.info a:hover{ color:#e94158;}
+
+.info1{ width:59%; height:240px; margin:40px 0px 0px 22%; background-color:#fff; border:#ccc 1px solid;}
+
+.info1-left{ width:230px;height:238px;}
+.left-photo{ width:120px; height:120px; border-radius:10px;  margin:16px 50px 22px 25px; }
+.left-text{margin:15px 50px 15px 50px; font-weight:bold; text-align:center;width:120px; height:120px;}
+.left-text p{margin:15px 0px 15px 0px;color:#e94158; text-align:center;}
+.text-photo{ margin-top:-5px;}
+
+.info1-right{height:240px;border-left:#ccc 1px solid; margin:-255px 0px 0px 220px; float:left;}
+.right-photo{ width:260px; height:200px; margin:10px; }
+.right-text{height:200px;margin:-210px 25px 0px 34%;color:#999;}
+.right-text h3{color:#4e4e4e;}
+.right-text p{  margin-top:15px;}
+.test{ position:absolute;margin:35px 25px 0px 0%;color:#4e4e4e; }
+
+.test1{ position:absolute;margin:35px 25px 0px 7%;color:#4e4e4e; }

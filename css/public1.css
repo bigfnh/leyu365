@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+/*公共部分*/
+body{ margin:0; padding:0; font-family:"微软也黑"; font-size:16px; color:#4e4e4e;}
+/*header*/
+.header{ width:100%; height:130px; background-color:#fff; border-bottom:#ccc 1px solid; }
+.logo{ position:absolute; margin:45px 0% 0px 20%;}
+.menu{position:absolute; margin:80px 0% 0px 515px; width:60%;}
+.menu li{ margin:0px 0% 0px 4%; list-style:none; float:left;}
+.menu a{ color:#4e4e4e;text-decoration:none; }
+.menu a:hover{ color:#e94158;}
+
+.search{position:absolute; width:20%; height:40px; border:#ccc 1px solid; border-radius:5px; margin:70px 0px 0px 62.5%;}
+.search input{width:90%; height:38px;border:#ccc 1px solid;border-radius:5px; border-width:0px; padding-left:3%;color:#999;}
+.search-glass{ float:right; margin: 5px 3px 0px 0%;}
+.login{position:absolute;margin:20px 0% 0px 65%;width:30%;}
+.login li{ margin:0px 0% 0px 5%; list-style:none;float:left;}
+.login a{ color:#4e4e4e; text-decoration:none;}
+.login a:hover{ color:#e94158;}

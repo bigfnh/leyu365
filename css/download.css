@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner p{ position:absolute;margin:-340px 0px 0px 63%;}
+.info{ width:100%; height:260px; }
+.info-app{ margin:35px 0px 0px 35%;border-right:#ccc 1px solid; height:189px; width:16%;}
+.info-app p{ color:#CCC; margin:15px 0px 0px 15%; }
+.androd{ margin:-162px 0px 0px 56%;}
+.directly{ width:150px; height:50px; text-align:center; background-color:#ea4158; border:#ccc 1px solid; border-radius:5px; color:#fff; padding-top:15px; margin:0px 0px 0px 0px;}
+.androd p{ color:#CCC; margin:15px 0px 0px 4%;}

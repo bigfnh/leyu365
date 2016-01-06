@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#f2f2f2;}
+.info{ background-color:#f2f2f2; width:100%;  height:760px;} 
+.info-registered{ position:absolute; width:60%; height:500px; background-color:#fff; margin:30px 20% 200px 20%; border:#ccc 1px solid;}
+.info-test{ color:#e94057; font-size:20px; margin:55px 0px 0px 28%;}
+.registered-left{ margin:30px 0px 0px 18%; width:100%; height:270px; float:left;}
+.registered-left p{ width:30%; height:40px; border:#ccc 1px solid; padding-left:5px; border-radius:5px;}
+.registered-left input{ width:85%; height:38px;border-radius:5px;border:#fff 1px solid;}
+
+
+.left-test{margin:0px 0px 0px 0px;width:85%;}
+.registered-left select{ width:100px; height:30px; margin:0px 0px 0px 0px;}
+
+
+.left-registered{ width:80px; height:40px; margin-top:20px; display:block;border:#ccc 1px solid;border-radius:5px; background-color:#e94057; color:#fff; text-align:center; padding-top:8px;}
+.left-registered a{color:#fff; text-decoration:none;}
+.left-registered1{ text-align:center; font-size:14px; width:85%; height:38px; padding-left:45px;}
+
+
+
+
+
+
+
+.registered-right{ margin:-270px 0px 0px 58%; width:40%; height:270px; float:left;border-left:#ccc 1px solid;}
+.registered-right li{ margin:0px 0% 0px 4%; list-style:none;line-height:40px; }
+.registered-right a{ text-decoration:none; color:#e94158; }
+.registered-right a:hover{ color:#4e4e4e;}
